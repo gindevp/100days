@@ -1,4 +1,4 @@
-### 100 days of algorithms
+### 100 days of algorithmss
 
 This repository contains notebooks with live code to accompany [100 days of algorithms](https://medium.com/100-days-of-algorithms) challenge.
 
